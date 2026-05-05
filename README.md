@@ -1,2 +1,2 @@
-# QAManual-growiaShop-testing
+# qamanual-growiashop-testing
 Manual QA testing project including test cases and bug reports for GrowiaShop website.
